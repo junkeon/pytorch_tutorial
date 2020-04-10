@@ -1,0 +1,10 @@
+tr_batch_size = 64
+te_batch_size = 1000
+epochs = 30
+lr = 1.0
+gamma = 0.7
+no_cuda = False
+seed = 1
+log_interval = 5
+save_model = False
+dataset_path = '../data'
